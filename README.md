@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://www.linkedin.com/in/jwsung91/
+
 <!--
 **jwsung91/jwsung91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
