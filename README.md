@@ -1,3 +1,5 @@
+# Jinwoo Sung
+
 ## 👋 Hi there! Welcome to My GitHub Profile!  
 
 - I'm **Jinwoo Sung**, a passionate software engineer with experience in robotics and sensors. 🤖  
