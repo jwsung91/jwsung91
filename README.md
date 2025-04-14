@@ -1,47 +1,39 @@
 # Jinwoo Sung
 
-## 👋 Hi there! Welcome to My GitHub Profile!  
+## 🧩 Creative & Structured Software Developer  
 
-- I'm **Jinwoo Sung**, a passionate software engineer with experience in robotics and sensors. 🤖  
-- I am currently exploring the exciting fields of AI and automation. 💡  
-- I've contributed a lot to the company system, so this GitHub is still a blank slate. I'd like to fill it out with you all in the future.  
+I enjoy crafting software that balances **clarity, creativity, and control**.  
+Whether it's a GUI tool, a communication protocol, or a modular system, I find joy in both building things that work — and designing them to **work elegantly**.
 
----
+## 💡 About Me  
 
-## 🌟 About Me  
-
-- 🔭 **Previously worked on**: Sensors and semiconductor process R&D  
-- 🤖 **Robotics expertise**: 7+ years of developing industrial and service robots  
-- 🌱 **Current focus**: AI and automation technologies  
-- ⚡ **Fun fact**: I love blending cutting-edge tech with practical applications to automate real-world nuisances!  
+- 🧠 I love solving problems with **clean logic** and **practical structure**  
+- 🎨 I'm drawn to the intersection of **technical depth and creative design**  
+- 🤖 My background is in **robotics, automation, and real-world systems**  
+- 🔍 I'm always exploring better ways to **build, organize, and communicate** through code  
 
 ---
 
 ## 🛠️ Skills  
 
-Here are some of the technologies and tools I’ve worked with:  
-
 - **Languages**: C++, Python, C#  
-- **Technologies**:  
-  - System integration and data processing for robotics 🤖  
-  - Software Configuration Management  
-  - Automation and optimization of workflows  
+- **Frameworks & Tools**: ROS2, PyQt, WPF, Docker, CMake  
+- **Development Areas**:  
+  - System architecture & modular design  
+  - Async programming & protocol handling  
+  - GUI development & workflow automation  
 
----
+## 🌟 Interests  
 
-## 📊 GitHub Stats  
+- Designing intuitive **developer tools** and interfaces  
+- Exploring **state machines**, **event-driven systems**, and **data pipelines**  
+- Building systems that combine **creative expression** with **technical precision**  
+- Automating the boring stuff with a bit of style  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwsung91)](https://github.com/anuraghazra/github-readme-stats)  
+## 💬 Connect  
 
----
+I'm always happy to chat about **software design, automation, or creative dev tools**.  
+If something here resonates with you — feel free to reach out or drop a ⭐ on a project!
 
-## 💬 Let's Connect!  
-
-- 📧 Email: jwsung91@gmail.com  
-- 🌐 Portfolio: [Jinwoo Sung](https://jwsung91.github.io)  
-
----
-
-### ⭐ Show Your Support  
-
-If you like what you see, feel free to ⭐ some of my repositories! It means a lot. 😊  
+- 📧 jwsung91@gmail.com  
+- 🌐 [jwsung91.github.io](https://jwsung91.github.io)
