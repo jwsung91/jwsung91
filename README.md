@@ -1,39 +1,37 @@
 # Jinwoo Sung
 
-## 🧩 Creative & Structured Software Developer  
+A robotics software engineer focused on field-proven, user-oriented development.
 
-I enjoy crafting software that balances **clarity, creativity, and control**.  
-Whether it's a GUI tool, a communication protocol, or a modular system, I find joy in both building things that work — and designing them to **work elegantly**.
+I have 7+ years of experience in industrial and service robotics, specializing in designing and maintaining ROS 2-based systems deployed in real environments.
 
-## 💡 About Me  
+I believe that software must be verified in practice and implemented with clarity, structure, and maintainability.
 
-- 🧠 I love solving problems with **clean logic** and **practical structure**  
-- 🎨 I'm drawn to the intersection of **technical depth and creative design**  
-- 🤖 My background is in **robotics, automation, and real-world systems**  
-- 🔍 I'm always exploring better ways to **build, organize, and communicate** through code  
+My development approach is solution-driven, with a focus on integration, automation, and long-term reliability.
 
----
+## Engineering Philosophy
 
-## 🛠️ Skills  
+- Focus on **structure and modularity**, not just features  
+- Design with **user feedback** and **deployment conditions** in mind  
+- Build software ecosystems that support **long-term maintainability** and team scalability
 
-- **Languages**: C++, Python, C#  
-- **Frameworks & Tools**: ROS2, PyQt, WPF, Docker, CMake  
-- **Development Areas**:  
-  - System architecture & modular design  
-  - Async programming & protocol handling  
-  - GUI development & workflow automation  
+## Technical Stack
 
-## 🌟 Interests  
+| Area               | Technologies / Practices                                    |
+|--------------------|--------------------------------------------------------------|
+| Languages          | C++, Python, Bash                                            |
+| Robotics Framework | ROS 2 (Foxy, Humble), Lifecycle, Composition API             |
+| Architecture       | FSM Modeling, Interface-driven Design, Config Abstraction    |
+| System Integration | Boost.Asio, Hardware Protocol Handling                       |
+| Build & Packaging  | CMake, Python Packaging (setuptools, pyproject)              |
+| Automation / CI    | Jenkins, GitHub Actions, Docker                              |
+| Testing / Validation | GTest, pytest, Scenario-based Simulation Testing           |
 
-- Designing intuitive **developer tools** and interfaces  
-- Exploring **state machines**, **event-driven systems**, and **data pipelines**  
-- Building systems that combine **creative expression** with **technical precision**  
-- Automating the boring stuff with a bit of style  
+## Stats
 
-## 💬 Connect  
+[![Jwsung91's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwsung91)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm always happy to chat about **software design, automation, or creative dev tools**.  
-If something here resonates with you — feel free to reach out or drop a ⭐ on a project!
+## Contact
 
-- 📧 jwsung91@gmail.com  
-- 🌐 [jwsung91.github.io](https://jwsung91.github.io)
+- LinkedIn: [https://www.linkedin.com/in/jwsung91/](https://www.linkedin.com/in/jwsung91/)
+- GitHub: [https://github.com/jwsung91](https://github.com/jwsung91)
+- Email: jwsung91@gmail.com
