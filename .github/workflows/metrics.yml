@@ -17,9 +17,10 @@ jobs:
                   template: classic
 
                   base: header, repositories
-
                   plugin_languages: yes
-                  plugin_languages_limit: 6
+                  plugin_languages_limit: 4
+                  plugin_languages_ignored: >-
+                    jupyter notebook, html, css, tex, dockerfile, makefile, shell
                   plugin_languages_sections: most-used
                   plugin_languages_colors: github
 
