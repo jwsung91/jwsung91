@@ -1,10 +1,15 @@
 # Jinwoo Sung
 
-Robotics software engineer working on **production-grade middleware and system architecture**.
+Robotics software engineer working on autonomous mobile robot (AMR) platforms.
 
-I build and maintain **ROS 2–based robotic systems** deployed in real environments,
-with a focus on communication layers, lifecycle-aware design, and long-term operability.
+I design system architectures and build middleware for real-world robotic systems.  
+I enjoy improving system efficiency and creating tools that make development and operations easier.
 
-**Focus:** Modern C++, ROS 2, middleware design & system tooling.
+- Platform architecture and system design for AMR systems
+- Middleware and communication components for reliable data flow and system interaction
+- Interface architecture design with defined contracts and SRS for integrating AMR platforms with external systems
+- Development of internal tools and user-facing interfaces to improve usability and operational efficiency
 
-- LinkedIn: <https://www.linkedin.com/in/jwsung91>
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/jwsung91
