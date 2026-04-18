@@ -10,6 +10,8 @@ I enjoy improving system efficiency and creating tools that make development and
 - Interface architecture design with defined contracts and SRS for integrating AMR platforms with external systems
 - Development of internal tools and user-facing interfaces to improve usability and operational efficiency
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwsung91)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/jwsung91
